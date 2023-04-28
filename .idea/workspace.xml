@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc7037a-14db-4306-b9d7-832d955671ec" name="Changes" comment="" />
+    <list default="true" id="8dc7037a-14db-4306-b9d7-832d955671ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Subject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +31,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "interface/1",
+    "git-widget-placeholder": "di/2",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/media/shenux/01D8731A50B62D50/IJSE/Third Semester/Software Architectures & Design Patterns - 2/Projects/Software-Principles/04_Dependancy-Inversion-Principle/src",
+    "last_opened_file_path": "/media/shenux/01D8731A50B62D50/IJSE/Third Semester/Software Architectures & Design Patterns - 2/Projects/Software-Principles/05_Observer-Design-Pattern/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +45,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_Observer-Design-Pattern/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Software-Principles" />
