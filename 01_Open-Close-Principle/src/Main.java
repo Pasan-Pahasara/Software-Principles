@@ -1,6 +1,6 @@
 /**
  * @author : ShEnUx
- * @time : 10:55 PM
+ * @time : 11:11 PM
  * @date : 4/28/2023
  * @since : 0.1.0
  **/
@@ -18,5 +18,8 @@ public class Main {
 
         bankAppWithdrawalService.depositToCurrentAccount(100000);
         bankAppWithdrawalService.withdrawFromCurrentAccount(5000);
+
+        bankAppWithdrawalService.depositToSalarySaverAccount(200000);
+        bankAppWithdrawalService.withdrawFromSalarySaverAccount(100000);
     }
 }
