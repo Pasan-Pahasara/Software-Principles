@@ -13,9 +13,9 @@ public class Main {
     /* Observer Design Pattern */
 
     /*
-    * Define an One-to-Many dependency between objects where a state change in one object results
-    * in all its dependents being notified and update automatically.
-    * */
+     * Define an One-to-Many dependency between objects where a state change in one object results
+     * in all its dependents being notified and update automatically.
+     * */
     public static void main(String[] args) {
 
         //Initialize the Subject
@@ -34,5 +34,8 @@ public class Main {
         //Now see what will happen after the subject states changed
         kamali.notifyAllObservers("Kamali Uploaded a New Photo");
         kamali.notifyAllObservers("Kamali is dead");
+
+        //Code Updated
+
     }
 }
