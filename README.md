@@ -48,7 +48,7 @@ https://github.com/Pasan-Pahasara/Software-Principles.git
 ![GitHub Contributions](https://img.shields.io/github/contributors/Pasan-Pahasara/Software-Principles?&labelColor=black&color=8854d0&style=for-the-badge)
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/Pasan-Pahasara/Software-Principles?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Pasan-Pahasara/Software-Principles/blob/main/License)
+[![GitHub license](https://img.shields.io/github/license/Pasan-Pahasara/Software-Principles?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Pasan-Pahasara/Software-Principles/blob/master/License)
 
 <div align="center">
 
