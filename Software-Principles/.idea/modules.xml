@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_Open-Close-Principle/01_Open-Close-Principle.iml" filepath="$PROJECT_DIR$/../01_Open-Close-Principle/01_Open-Close-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_Liskov-Substitution-Principle/02_Liskov-Substitution-Principle.iml" filepath="$PROJECT_DIR$/../02_Liskov-Substitution-Principle/02_Liskov-Substitution-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_Interface-Segregation-Principle/03_Interface-Segregation-Principle.iml" filepath="$PROJECT_DIR$/../03_Interface-Segregation-Principle/03_Interface-Segregation-Principle.iml" />
+    </modules>
+  </component>
+</project>
