@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dc7037a-14db-4306-b9d7-832d955671ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/impl/Dasun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/impl/Kamali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/impl/Ramal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/impl/Sithum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_Observer-Design-Pattern/src/service/Observer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +32,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "di/2",
+    "git-widget-placeholder": "observerdesign/1",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/media/shenux/01D8731A50B62D50/IJSE/Third Semester/Software Architectures & Design Patterns - 2/Projects/Software-Principles/05_Observer-Design-Pattern/src",
+    "last_opened_file_path": "/media/shenux/01D8731A50B62D50/IJSE/Third Semester/Software Architectures & Design Patterns - 2/Projects/Software-Principles/05_Observer-Design-Pattern/src/service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682681116058</updated>
       <workItem from="1682681117910" duration="2049000" />
+      <workItem from="1682686877046" duration="380000" />
     </task>
     <servers />
   </component>

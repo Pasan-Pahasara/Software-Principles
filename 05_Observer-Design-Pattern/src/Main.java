@@ -1,3 +1,8 @@
+import service.impl.Dasun;
+import service.impl.Kamali;
+import service.impl.Ramal;
+import service.impl.Sithum;
+
 /**
  * @author : ShEnUx
  * @time : 5:27 PM
@@ -13,5 +18,21 @@ public class Main {
     * */
     public static void main(String[] args) {
 
+        //Initialize the Subject
+        Kamali kamali = new Kamali();
+
+        //Initialize two Observers
+        Dasun dasun = new Dasun();
+        Ramal ramal = new Ramal();
+        Sithum sithum = new Sithum();
+
+        //Register observers to the Subject
+        kamali.register(dasun);
+        kamali.register(ramal);
+        kamali.register(sithum);
+
+        //Now see what will happen after the subject states changed
+        kamali.notifyAllObservers("Kamali Uploaded a New Photo");
+        kamali.notifyAllObservers("Kamali is dead");
     }
 }
