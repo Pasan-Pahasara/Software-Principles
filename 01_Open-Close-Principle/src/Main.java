@@ -6,7 +6,17 @@
  **/
 
 public class Main {
+    /*SOLID*/
+    /* O - Open / Close Principle */
+    /*
+     *This principle states that the software entities should be open for extensions but close
+     * for modifications
+     * */
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        BankAppWithdrawalService bankAppWithdrawalService = new BankAppWithdrawalService();
+
+        bankAppWithdrawalService.depositToCurrentAccount(100000);
+        bankAppWithdrawalService.withdrawFromCurrentAccount(5000);
     }
 }
