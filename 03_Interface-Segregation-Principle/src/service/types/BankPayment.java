@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @author : ShEnUx
- * @time : 3:18 PM
+ * @time : 3:29 PM
  * @date : 4/28/2023
  * @since : 0.1.0
  **/
@@ -29,5 +29,15 @@ public class BankPayment implements Payment {
         // Get all payments
         System.out.println("Returned all payments");
         return null;
+    }
+
+    @Override
+    public void initiateLoanSettlement() {
+        throw new UnsupportedOperationException("Bank Payments don't have Initial Loan Payments");
+    }
+
+    @Override
+    public void initiateRePayment() {
+        throw new UnsupportedOperationException("Bank Payments don't have Initial Re Payments");
     }
 }
